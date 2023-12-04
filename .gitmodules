@@ -1,3 +1,6 @@
 [submodule "btl-kbs-backend"]
 	path = btl-kbs-backend
 	url = https://github.com/dinhkha238/btl-kbs-backend.git
+[submodule "btl-kbs-frontend"]
+	path = btl-kbs-frontend
+	url = https://github.com/dinhkha238/btl-kbs-frontend.git
