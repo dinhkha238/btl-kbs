@@ -1,7 +1,9 @@
 - Front-end
-  npm install
-  npm run dev
+  * npm install
+  * npm run dev
 
 - Back-end
-  .\venv\Scripts\Activate.ps1
-  python .\main.py
+  * python -m venv venv
+  * .\venv\Scripts\Activate.ps1
+  * pip install -r requirements.txt
+  * python .\main.py
